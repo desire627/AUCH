@@ -1,0 +1,43 @@
+body {
+    background-image: url("desire.jpg");
+    background-size: cover;
+
+}
+h1{
+    color:navy;
+    margin-left:20px;
+}
+#loro1{
+    text-align: center;
+    color:blue;
+    text-decoration-line: overline;
+    
+}
+.centerlarge{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+h1,h2,h3{
+    text-align:center;
+    color:black;
+    font-size: xx-large ;
+}
+.first{
+    border:5px, solid, navy;
+    
+}
+.second{
+    border:5px, solid, rgb(19, 14, 40);
+    padding: 10px;
+    margin: 100px;
+    background-size: cover;
+    background-repeat: repeat-x;
+}
+.third{
+    background-color: blanchedalmond;
+}
+.sacan{
+    color: blue;
+    font-size: xx-large;
+}
