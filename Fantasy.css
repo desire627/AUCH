@@ -1,0 +1,10 @@
+.container {
+    background-image: url(desire.jpg);
+    text-align: justify;
+    color: blue;
+    border: 10px red;
+}
+body {
+    background-image: url(/cents/fun.jpg);
+    border: 8px dotted navy;
+}
